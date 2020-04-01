@@ -45,6 +45,13 @@ package com.jaiz.study;
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
+ * 题干的描述比较绕
+ * 其实只要括号多级嵌套时，让A组B组交替出现即可，这样深度总是不超过1
+ * 例如：(((())))
+ * 分组情况为：A,B,A,B,B,A,B,A
+ * 输出结果：[0,1,0,1,1,0,1,0]
+ * 最大深度为1
  */
 public class Day20200401
 {
