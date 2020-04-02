@@ -1,9 +1,5 @@
 package com.jaiz.study;
 
-import com.sun.tools.internal.xjc.AbortException;
-
-import java.util.Arrays;
-
 /**
  * 根据 百度百科 ，生命游戏，简称为生命，是英国数学家约翰·何顿·康威在 1970 年发明的细胞自动机。
  * <p>
