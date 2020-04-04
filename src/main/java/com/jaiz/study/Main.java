@@ -7,6 +7,7 @@ import java.util.Stack;
 
 /**
  * 贴瓷砖
+ * 小红书面试题
  */
 public class Main {
 
