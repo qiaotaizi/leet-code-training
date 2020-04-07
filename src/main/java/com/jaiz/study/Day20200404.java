@@ -37,6 +37,9 @@ package com.jaiz.study;
  * 继续从当前右边界读取柱子
  * ...
  * 读取至数组尾部，统计结束
+ * 这样实现虽然避免了O(n^2)问题，但是可能仍然存在大量的回溯
+ *
+ * 好的解题思路参考com.jaiz.study.Day20200404Opt大佬算法
  */
 public class Day20200404 {
 
