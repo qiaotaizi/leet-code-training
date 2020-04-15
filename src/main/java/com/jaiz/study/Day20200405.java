@@ -26,7 +26,9 @@ import java.util.*;
  * cache.get(3);       // 返回 3
  * cache.get(4);       // 返回 4
  *
- * TODO
+ * https://leetcode-cn.com/problems/lfu-cache/
+ *
+ * TODO 按照官解进行编码
  */
 public class Day20200405 {
 
