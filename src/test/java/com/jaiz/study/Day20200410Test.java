@@ -2,8 +2,6 @@ package com.jaiz.study;
 
 import org.junit.Test;
 
-import java.util.Arrays;
-
 public class Day20200410Test {
 
 
